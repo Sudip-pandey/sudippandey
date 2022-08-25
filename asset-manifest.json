@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/sudippandey/static/css/main.073c9b0a.css",
-    "main.js": "/sudippandey/static/js/main.bba9d875.js",
+    "main.js": "/sudippandey/static/js/main.ce395096.js",
     "static/js/787.f7f9203d.chunk.js": "/sudippandey/static/js/787.f7f9203d.chunk.js",
-    "static/media/logo.svg": "/sudippandey/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sudippandey/index.html",
     "main.073c9b0a.css.map": "/sudippandey/static/css/main.073c9b0a.css.map",
-    "main.bba9d875.js.map": "/sudippandey/static/js/main.bba9d875.js.map",
+    "main.ce395096.js.map": "/sudippandey/static/js/main.ce395096.js.map",
     "787.f7f9203d.chunk.js.map": "/sudippandey/static/js/787.f7f9203d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bba9d875.js"
+    "static/js/main.ce395096.js"
   ]
 }
