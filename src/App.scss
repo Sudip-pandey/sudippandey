@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: #101010;
+  header {
+    h1 {
+      font-size: clamp(5vw, 10rem + 1vh, 1.5rem);
+      color: #bb86fc;
+    }
+  }
+}
